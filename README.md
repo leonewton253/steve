@@ -8,6 +8,6 @@ Things needed:
 - Cool algorithm that uses corpus to produce audio from text
 - an A.I. with humor
 - voice recognizition support ( Google voice API?)
-- object recogniztion ( simple objects)
+- object recogniztion ( simple objects, maybe emotion recogonition?)
 - Joke database
 - steve jobs quote database
